@@ -1,0 +1,8 @@
+id=gphoto_friza
+name=Pixel Devices
+version=v9.5
+versionCode=200
+author=fahrul.ariza@gmail.com
+description=Modul Google Photos Unlimited
+minMagisk=20200
+updateJson=https://fahrulariza.github.io/release/gphoto.json

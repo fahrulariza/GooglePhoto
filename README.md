@@ -1,3 +1,8 @@
 # **Magisk Module**
-Magisk Module for Unlimited Storage Upload GooglePhoto Android
-Support for old android until new android
+
+Get Unlimited Google Photos Storage on Any Android Device
+
+Prerequisites
+1. Root
+2. Magisk
+3. Module

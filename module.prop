@@ -1,7 +1,7 @@
 id=gphoto_friza
 name=Pixel Devices
-version=v10.2
-versionCode=102
+version=v10.3
+versionCode=103
 author=fahrulariza
 description=Modul Google Photos Unlimited
 minMagisk=20200

@@ -1,6 +1,6 @@
 {
-  "version": "v10.3",
-  "versionCode": 103,
-  "zipUrl": "https://github.com/fahrulariza/GooglePhoto/releases/download/10.3/GPhotos.Unlimited.10.3.zip",
-  "changelog": "https://raw.githubusercontent.com/fahrulariza/GooglePhoto/update/README.md"
+  "version": "v10.4",
+  "versionCode": 104,
+  "zipUrl": "https://github.com/fahrulariza/GooglePhoto/releases/download/10.4/GPhotos.Unlimited.10.4.zip",
+  "changelog": "https://raw.githubusercontent.com/fahrulariza/GooglePhoto/update/build.md"
 }

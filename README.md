@@ -7,7 +7,7 @@ Prerequisites
 2. Magisk
 3. Module
 
-# **Existing High quality photos and videos are exempt from this change **
+# Existing High quality photos and videos are exempt from this change
 
 Any photos or videos you’ve uploaded in High quality before June 1, 2021 will not count toward your 15GB of free storage. This means that photos and videos backed up before June 1, 2021 will still be considered free and exempt from the storage limit. You can verify your backup quality at any time in the Photos app by going to back up & sync in Settings.
 

@@ -1,5 +1,11 @@
 # **Magisk Module**
 
+![License](https://img.shields.io/github/license/fahrulariza/GooglePhoto)
+[![GitHub All Releases](https://img.shields.io/github/downloads/fahrulariza/GooglePhoto/total)](https://github.com/fahrulariza/GooglePhoto/releases)
+![Total Commits](https://img.shields.io/github/commit-activity/t/fahrulariza/GooglePhoto)
+![Top Language](https://img.shields.io/github/languages/top/fahrulariza/GooglePhoto)
+[![Open Issues](https://img.shields.io/github/issues/fahrulariza/GooglePhoto)](https://github.com/fahrulariza/GooglePhoto/issues)
+
 Get Unlimited Google Photos Storage on Any Android Device
 
 Prerequisites
